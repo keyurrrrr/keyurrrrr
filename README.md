@@ -7,7 +7,7 @@ I'm a Computer Science Engineering student passionate about Software Development
 - 🎓 B.Tech CSE Student
 - 💻 Learning DSA, Web Development & AI
 - 🌱 Currently improving Java, C++, Python and Full-Stack Development
-- 🚀 Looking for Software Engineering Internships
+- 🚀 “Looking for internships in AI, Documentation and Software Development”.
 - ⚡ Love building real-world projects
 -  Python & GenAI | Technical Writing & Documentation | Co-author, IJIRT research paper
 
