@@ -9,6 +9,7 @@ I'm a Computer Science Engineering student passionate about Software Development
 - 🌱 Currently improving Java, C++, Python and Full-Stack Development
 - 🚀 Looking for Software Engineering Internships
 - ⚡ Love building real-world projects
+-  Python & GenAI | Technical Writing & Documentation | Co-author, IJIRT research paper
 
 ---
 
